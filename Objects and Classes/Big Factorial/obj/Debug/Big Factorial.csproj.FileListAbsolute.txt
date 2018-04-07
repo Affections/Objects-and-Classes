@@ -1,0 +1,7 @@
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\bin\Debug\Big Factorial.exe.config
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\bin\Debug\Big Factorial.exe
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\bin\Debug\Big Factorial.pdb
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\obj\Debug\Big Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\obj\Debug\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\obj\Debug\Big Factorial.exe
+C:\Users\Affections\source\repos\ConsoleApp4\Big Factorial\obj\Debug\Big Factorial.pdb

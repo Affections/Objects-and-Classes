@@ -1,0 +1,7 @@
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\obj\Debug\Distance Between Points.csproj.CoreCompileInputs.cache
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\bin\Debug\Distance Between Points.exe.config
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\bin\Debug\Distance Between Points.exe
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\bin\Debug\Distance Between Points.pdb
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\obj\Debug\Distance Between Points.exe
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\obj\Debug\Distance Between Points.pdb
+C:\Users\Affections\source\repos\ConsoleApp4\Distance Between Points\obj\Debug\Distance Between Points.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\bin\Debug\Randomize Words.exe.config
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\bin\Debug\Randomize Words.exe
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\bin\Debug\Randomize Words.pdb
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\obj\Debug\Randomize Words.csprojResolveAssemblyReference.cache
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\obj\Debug\Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\obj\Debug\Randomize Words.exe
+C:\Users\Affections\source\repos\ConsoleApp4\Randomize Words\obj\Debug\Randomize Words.pdb
